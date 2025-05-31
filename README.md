@@ -8,7 +8,8 @@ This solution demonstrates how to deploy a highly available and scalable web app
 
 ## Solution Architecture
 
-![Architecture Diagram](./architecture/architecture-diagram.png)
+![AWS WebApp Architecture](https://github.com/user-attachments/assets/82e1e836-4f96-4eca-a597-c35a4dcaed8a)
+
 
 The core components of this solution include:
 
